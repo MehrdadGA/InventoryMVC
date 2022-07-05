@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)c1.aspnetcore.mvc\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.targets" Condition="Exists('$(NuGetPackageRoot)c1.aspnetcore.mvc\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.targets')" />
+    <Import Project="$(NuGetPackageRoot)c1.aspnetcore.mvc.olap\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.Olap.targets" Condition="Exists('$(NuGetPackageRoot)c1.aspnetcore.mvc.olap\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.Olap.targets')" />
+    <Import Project="$(NuGetPackageRoot)c1.aspnetcore.mvc.multirow\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.MultiRow.targets" Condition="Exists('$(NuGetPackageRoot)c1.aspnetcore.mvc.multirow\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.MultiRow.targets')" />
+    <Import Project="$(NuGetPackageRoot)c1.aspnetcore.mvc.flexviewer\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.FlexViewer.targets" Condition="Exists('$(NuGetPackageRoot)c1.aspnetcore.mvc.flexviewer\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.FlexViewer.targets')" />
+    <Import Project="$(NuGetPackageRoot)c1.aspnetcore.mvc.flexsheet\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.FlexSheet.targets" Condition="Exists('$(NuGetPackageRoot)c1.aspnetcore.mvc.flexsheet\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.FlexSheet.targets')" />
+    <Import Project="$(NuGetPackageRoot)c1.aspnetcore.mvc.finance\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.Finance.targets" Condition="Exists('$(NuGetPackageRoot)c1.aspnetcore.mvc.finance\3.0.20221.337\buildTransitive\net5.0\C1.AspNetCore.Mvc.Finance.targets')" />
+  </ImportGroup>
+</Project>

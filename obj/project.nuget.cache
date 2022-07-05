@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "s43YzZgUlQUWUw6tkm+kl6pTPWGqvilfYu2/vaL5KWMPoofgCz++fAZZvavX8JmdCwaljNSJHk8U/ltwwo/I8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\VSCode\\InventoryMVC\\InventoryMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\c1.aspnetcore.mvc\\3.0.20221.337\\c1.aspnetcore.mvc.3.0.20221.337.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\c1.aspnetcore.mvc.finance\\3.0.20221.337\\c1.aspnetcore.mvc.finance.3.0.20221.337.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\c1.aspnetcore.mvc.flexsheet\\3.0.20221.337\\c1.aspnetcore.mvc.flexsheet.3.0.20221.337.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\c1.aspnetcore.mvc.flexviewer\\3.0.20221.337\\c1.aspnetcore.mvc.flexviewer.3.0.20221.337.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\c1.aspnetcore.mvc.multirow\\3.0.20221.337\\c1.aspnetcore.mvc.multirow.3.0.20221.337.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\c1.aspnetcore.mvc.olap\\3.0.20221.337\\c1.aspnetcore.mvc.olap.3.0.20221.337.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.data.common\\4.1.0\\system.data.common.4.1.0.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.drawing.primitives\\4.0.0\\system.drawing.primitives.4.0.0.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.io\\4.1.0\\system.io.4.1.0.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.reflection.primitives\\4.0.1\\system.reflection.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.resources.resourcemanager\\4.0.1\\system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.runtime.extensions\\4.1.0\\system.runtime.extensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.text.regularexpressions\\4.1.0\\system.text.regularexpressions.4.1.0.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
+    "C:\\Users\\me.ghafari\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
