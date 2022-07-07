@@ -5,11 +5,18 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="C1.AspNetCore.Mvc" Version="3.0.20221.337"/>
-    <PackageReference Include="C1.AspNetCore.Mvc.Finance" Version="3.0.20221.337"/>
-    <PackageReference Include="C1.AspNetCore.Mvc.FlexSheet" Version="3.0.20221.337"/>
-    <PackageReference Include="C1.AspNetCore.Mvc.Olap" Version="3.0.20221.337"/>
-    <PackageReference Include="C1.AspNetCore.Mvc.MultiRow" Version="3.0.20221.337"/>
-    <PackageReference Include="C1.AspNetCore.Mvc.FlexViewer" Version="3.0.20221.337"/>
+    <PackageReference Include="C1.AspNetCore.Mvc" Version="3.0.20221.337" />
+    <PackageReference Include="C1.AspNetCore.Mvc.Finance" Version="3.0.20221.337" />
+    <PackageReference Include="C1.AspNetCore.Mvc.FlexSheet" Version="3.0.20221.337" />
+    <PackageReference Include="C1.AspNetCore.Mvc.Olap" Version="3.0.20221.337" />
+    <PackageReference Include="C1.AspNetCore.Mvc.MultiRow" Version="3.0.20221.337" />
+    <PackageReference Include="C1.AspNetCore.Mvc.FlexViewer" Version="3.0.20221.337" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.sqlite" Version="6.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.tools" Version="6.0.1">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
   </ItemGroup>
 </Project>
