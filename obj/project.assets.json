@@ -3899,23 +3899,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\me.ghafari\\.nuget\\packages\\": {},
+    "C:\\Users\\Mehrdad\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\VSCode\\InventoryMVC\\InventoryMVC.csproj",
+      "projectUniqueName": "E:\\Project\\GitHub\\MVCSample\\InventoryMVC\\InventoryMVC.csproj",
       "projectName": "InventoryMVC",
-      "projectPath": "D:\\Projects\\VSCode\\InventoryMVC\\InventoryMVC.csproj",
-      "packagesPath": "C:\\Users\\me.ghafari\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\VSCode\\InventoryMVC\\obj\\",
+      "projectPath": "E:\\Project\\GitHub\\MVCSample\\InventoryMVC\\InventoryMVC.csproj",
+      "packagesPath": "C:\\Users\\Mehrdad\\.nuget\\packages\\",
+      "outputPath": "E:\\Project\\GitHub\\MVCSample\\InventoryMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\me.ghafari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mehrdad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3924,7 +3924,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://azuredevops.asax.ir/tfs/asaprojects/_packaging/Public@Local/nuget/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4008,7 +4007,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
